@@ -188,7 +188,7 @@ npm run test:coverage
 
 ### Public URL
 
-**Public URL:** `http://13.204.217.135:3000`
+**Public URL:** `http://13.204.217.135:8000`
 
 ## Queue
 
